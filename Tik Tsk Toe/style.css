@@ -99,6 +99,15 @@ nav ul{
     background-color: #911d91;
     transition: width 1s ease-in-out;
 }
+  .copyright{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    color: #fff;
+    background: #262626 ;
+    font-weight: 300;
+    margin-top: 20px;
+}
 
 @media screen and (max-width: 950px)
 {
